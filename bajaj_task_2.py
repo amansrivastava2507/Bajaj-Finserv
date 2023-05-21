@@ -318,7 +318,7 @@ for appointment_id, appointment_info in appointment_data.items():
     print(f"Full Name: {appointment_info['Full Name']}")
     print(f"Gender: {appointment_info['Gender']}")
 
-#ques 2
+#ques 7
 import json
 import re
 import hashlib
